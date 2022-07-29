@@ -1,0 +1,8 @@
+﻿  dllexploit.cpp
+  dllmain.cpp
+     Creating library D:\RunAsWinTcb\POC_DLL\x64\Release\POC_DLL.lib and object D:\RunAsWinTcb\POC_DLL\x64\Release\POC_DLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 301 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  POC_DLL.vcxproj -> D:\RunAsWinTcb\POC_DLL\x64\Release\POC_DLL.dll
