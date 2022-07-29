@@ -3,7 +3,8 @@
 ## Overview
 RunAsWinTcb uses an userland exploit to run a DLL with a protection level of WinTcb-Light.
 
-Overview of the vulnerability and the capabilites of an exploit can be found here: 
+Overview of the vulnerability and the capabilites of an exploit can be found here:
+https://tastypepperoni.medium.com/running-exploit-as-protected-process-ligh-from-userland-f4c7dfe63387
 
 ## Usage
 Command: RunAsWinTcb.exe POC_DLL.dll
